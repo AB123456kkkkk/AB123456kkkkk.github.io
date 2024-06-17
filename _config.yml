@@ -8,11 +8,11 @@ version: 2
 # Personal info
 name: Arnav Enaganti
 title: IT Intern 
-email: arnav.enaganti06@gmail.com (optional)
+email: arnav.enaganti06@gmail.com
 # email_title: Email (Email title override)
-phone: 248-997-0304 (optional)
+phone: 248-997-0304
 # phone_title: Phone (Phone title override)
-website: Arnav's Website (eg. https://google.com)(optional)
+#website: Arnav's Website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -52,7 +52,7 @@ youtube_username: Arnav Enaganti
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is Arnav Enaganti. I am a rising junior studying Computer Science at Michigan State University. I like to listen music, watch sports
+  Hello! My name is Arnav Enaganti. I am a rising junior studying Computer Science at Michigan State University. I like to listen to music, watch sports, 
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists

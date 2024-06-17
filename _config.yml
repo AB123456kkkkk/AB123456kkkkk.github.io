@@ -52,12 +52,8 @@ youtube_username: Arnav Enaganti
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is Arnav Enaganti. I am a rising junior studying Computer Science at Michigan State University. I like to listen to music, watch sports, 
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+  Hello! My name is Arnav Enaganti. I am a rising junior studying Computer Science at Michigan State University. I have experience in Python, C++, Java, and SAP (Systems Analytical 
+  Programming). I am also good at Microsoft Word, PowerPoint, Excel, and Canva.
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
